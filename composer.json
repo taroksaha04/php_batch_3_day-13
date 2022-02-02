@@ -1,0 +1,13 @@
+{
+  "name": "php-12/php-12",
+  "type": "project",
+  "description": "A Simple class project",
+  "keywords": [],
+  "license": "",
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app//"
+    }
+  }
+}
